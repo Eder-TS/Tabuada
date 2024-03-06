@@ -30,8 +30,11 @@ section{
 
 input{
     border: none;
-    border-radius: 10px;
+    border-radius: 12px;
 
+    font-size: 12px;
+
+    padding: 5px;
     margin: 8px;
     width: 45%;
 }
